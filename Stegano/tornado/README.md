@@ -7,5 +7,5 @@ inside the file too!\
 \
 Recover the file by changing the bytes correctly\
 \
-flag is: CryptexCTF{N1c3_y0u_d1D_I1}
+Flag is: CryptexCTF{N1c3_y0u_d1D_I1}
 
