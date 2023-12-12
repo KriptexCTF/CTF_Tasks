@@ -1,11 +1,11 @@
-Какая-то матрешка!\
+Some kind of matryoshka doll!\
 \
 \
 -----------------------------------\
-Архив в картинке\
-Пароль в картинке\
-Пароль от архива: fo7mZUi3\
-Архив в картинке
+Archive in the picture\
+The password in the picture\
+Archive password: fo7mZUi3\
+Archive in the picture\
 
 
 		CryptexCTF{1t_Was_r3@ly_3asY}
