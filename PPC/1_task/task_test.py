@@ -104,7 +104,7 @@ def MAIN():
 	while True:
 		connection, addr = sock.accept()
 		print(log_write(2, addr))
-		connection.send(str.encode("You are connected!\nDecode from base64 to ascii\n"))
+		connection.send(str.encode("You are connected!\nDecode from base64 to ascii 100 times\n"))
 		start_new_thread(serv_work, (connection, addr,))
 	sock.close()
 
