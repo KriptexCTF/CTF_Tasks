@@ -6,7 +6,6 @@ arg = (sys.argv[1]).split(':')
 sock = socket()
 sock.connect((arg[0], int(arg[1])))
 print((sock.recv(1024)).decode("ascii"))
-#print((sock.recv(1024)).decode("ascii"))
 
 for i in range(104):
 	a = ((sock.recv(1024)).decode("utf-8"))
