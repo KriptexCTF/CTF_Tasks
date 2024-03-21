@@ -1,2 +1,2 @@
 SOLVE:
-\n\n\n\n\n\n\nprint(open('flag.txt','r').read())
+<br /><br /><br />print(open('flag.txt','r').read())
