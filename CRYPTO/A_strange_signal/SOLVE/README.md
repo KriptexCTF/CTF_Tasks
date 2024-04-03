@@ -13,3 +13,7 @@ Next, run the script and compile the encoding table:
 <img width="1469" alt="Screenshot 2024-04-03 at 15 53 33" src="https://github.com/KriptexCTF/CTF_Tasks/assets/120062405/a367c110-cd45-4710-be85-eb0d91f713f3">
 
 We write the decoder and give it our encrypted string:
+<img width="1470" alt="Screenshot 2024-04-03 at 15 55 36" src="https://github.com/KriptexCTF/CTF_Tasks/assets/120062405/df76d489-8825-4605-bd99-3347aa51638c">
+
+Solve!
+Flag: congratulation_sensei_you_were_able_to_decrypt_the_message_and_get_the_flag
