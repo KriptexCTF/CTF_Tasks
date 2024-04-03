@@ -1,3 +1,13 @@
+Lets go!
+<img width="1054" alt="Screenshot 2024-04-03 at 19 46 53" src="https://github.com/KriptexCTF/CTF_Tasks/assets/120062405/7732133e-7d75-43c4-8d70-108acedd8a28">
+We have two files
+
+  1) strange_text.txt
+
+  2) bit_sequence.txt
+
+And the names Shannon and Fano
+
 Shannon—Fano coding (English: Shannon–Fano coding) is an algorithm for prefix heterogeneous encoding. Refers to probabilistic compression methods.
 
 Next, we need to understand the algorithm and write a script that creates an encoding table.
