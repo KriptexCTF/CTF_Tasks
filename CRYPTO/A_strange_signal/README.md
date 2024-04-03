@@ -1,5 +1,6 @@
-Late in the evening, Shannon and Fano managed to intercept a strange signal.
+Late in the evening, agents Shannon and Fano managed to intercept a signal sent by an enemy submarine.
+A strange text and bit pattern was received.
 
-Try to understand what it was about.
+Help agents understand what is being said in an encrypted message.
 
 Good luck)
