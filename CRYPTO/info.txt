@@ -1,0 +1,3 @@
+Alphabet -> abcdefghijklmnopqrstuvwxyz_
+All characters from the alphabet appear with equal probability,
+but one of them, namely _ appears with probability 0.09
